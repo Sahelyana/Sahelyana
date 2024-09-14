@@ -1,9 +1,10 @@
-## Hi there! 🙋
+## Hi there! 🙋🇳🇵
 
-## See me on👉 [Connect Linkdin](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
+## - 📫 How to reach me:👉 [Connect Linkdin](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
 
 - 🏫 I’m currently Studying in Presidential Graduate School
-
+- 🌱 I’m currently learning web development and cyber Security
+- - 😄 Pronouns: i·lee·aa·nuh
 <!--
 **Sahelyana/Sahelyana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
