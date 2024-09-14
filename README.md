@@ -1,6 +1,6 @@
 ## Hi there! 🙋
 
-## See me on👉 [Connect Linkdin] (https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
+## See me on👉 [Connect Linkdin](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
 
 ##- 🏫 I’m currently Studying on Presidential Graduate School
 
