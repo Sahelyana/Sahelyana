@@ -4,7 +4,7 @@
 
 - 🏫 I’m currently Studying in Presidential Graduate School
 - 🌱 I’m currently learning web development and cyber Security
-- 😄 Pronouns: i·lee·aa·nuh
+- 😄 Pronouns: ill·yaa·na
 <!--
 **Sahelyana/Sahelyana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
